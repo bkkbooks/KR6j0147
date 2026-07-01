@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0147/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0147/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 最勝佛頂陀羅尼淨除業障呪經
+  identifiers:
+    krp: KR6j0147
+    cbeta: T19n0970
+    cbeta_old_id: T19n0970
+    authorityid: CA0003993
+    json_key: T0970
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0970.xml
+    old_id: T19n0970
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0147_000-T.yaml, hash: 'sha256:454388e100d54fb9e2eef5b931120365ee06defdd8be654c860afedf0f562757'}
+  - {seq: 1, filename: KR6j0147_001-T.yaml, hash: 'sha256:54032bf2d2deaced6cb8239dd14ce52e8d27f133fa146b77ddd5442b81174127'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0147_000-T.markers.yaml, hash: 'sha256:c1462d474efde237f7e342363bc206c25c0ab65c270edf83c052ccdcbd0b7e8c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0147_001-T.markers.yaml, hash: 'sha256:1b176eba0a80c20477fe51672dc2b82408e0f81c3c1b49e2e0a826551652ec06'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0147_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5664
+  label: 最勝佛頂陀羅尼淨除業障呪經
+  type: juan
+  level: 1
+hash: sha256:2b21ed755a1abb76d5cfc906e208949a8927cc17c04e0e620186e7b605fe7998
