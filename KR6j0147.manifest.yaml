@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0147_000.yaml, hash: 'sha256:454388e100d54fb9e2eef5b931120365ee06defdd8be654c860afedf0f562757'}
-  - {seq: 1, filename: KR6j0147_001.yaml, hash: 'sha256:ba0ffbd696d89cc85d76813eb67c046d23fe9cfae7250fd73101111d3ebff27e'}
+  - {seq: 1, filename: KR6j0147_001.yaml, hash: 'sha256:54032bf2d2deaced6cb8239dd14ce52e8d27f133fa146b77ddd5442b81174127'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0147_001.markers.yaml, hash: 'sha256:d9880ecb2c7fc539536ce40c00e9366f00de49791d77bf2b60f31f8b8b132e92'}
+  - {seq: 0, role: markers, filename: assets/KR6j0147_000.markers.yaml, hash: 'sha256:6156b49f8a12610816e969f6f726e4378b740ef2a494fe3b16696ff958c8bd99'}
+  - {seq: 1, role: markers, filename: assets/KR6j0147_001.markers.yaml, hash: 'sha256:c05c5904035e2bb9a24a4c725ddc5f58ad201148c94966d135074b2544ac7030'}
 table_of_contents:
 - ref:
     seq: 1
@@ -51,7 +52,4 @@ table_of_contents:
   label: 最勝佛頂陀羅尼淨除業障呪經
   type: juan
   level: 1
-hash: sha256:cea52df31111cd339828792a1eb102051953aa00ebba7de6790a93a338401916
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fb4b1f9bb5829b29f5f226b8cf23969a87e467098b4ff1aca0ebfe0f6569c584
